@@ -1,0 +1,82 @@
+
+.cake-icon  {
+  background-color: transparent;
+  color: red;
+  height: 40px;
+}
+
+.heading {
+  background: linear-gradient(to bottom right, #033C96 , #7DE2F8);
+  background-size: 100% 100%;
+  margin-top: 2px;
+  padding: 10px;
+}
+
+.heading h1, p {
+  position: relative;
+  left: 12%;
+  margin-top: 2px;
+  width: 80%;
+  font-family: "Raleway", Helvetica;
+  font-size: 12pt;
+  line-height: 1;
+  color: white;
+
+}
+
+.heading h1 {
+  text-transform: uppercase;
+  text-indent: -18px;
+  margin-bottom: -10px;
+}
+
+.heading p {
+  left: 2%;
+  margin-top: -10px;
+}
+
+.fa {
+  position: relative;
+  top: 13px;
+}
+
+.business-one {
+  background: black;
+  background-size: 100% 100%;
+  margin-top: 0px;
+  padding: 0px;
+  background: black;
+  height: 160px;
+  overflow: hidden;
+}
+
+.business-one h2, p {
+  position: relative;
+  left: 1%;
+  margin-top: 18px;
+  width: 80%;
+  font-family: "Raleway", Helvetica;
+  font-size: 12pt;
+  line-height: 90%;
+  color: white;
+}
+
+.business-one p{
+  margin-top: -5px;
+  font-size: 8pt;
+}
+
+.biz-one-img  img{
+  position: absolute;
+  width: auto;
+  left: 0%;
+  top: 50px;
+  vertical-align: bottom;
+}
+
+.btn {
+  position: relative;
+  top: 100;
+  left: 27%;
+  background-image: img src="http://tripwhat.com/img/travel/item:-9223372036852163167:photos/831eeca229abe5ba7e4a421bfd7aff50-450-190";
+}
